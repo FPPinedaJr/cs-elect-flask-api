@@ -8,7 +8,7 @@ This is a simple Flask-based API to manage a collection of books. The API suppor
 
 You can test the API using Postman by sending requests to the following endpoints:
 
-```json
+```
 POST /api/books
 Content-Type: application/json
 
